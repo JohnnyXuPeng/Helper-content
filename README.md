@@ -6,3 +6,5 @@ http://yanxiaojun.me/ionic2_tabs/dist/index.html
 
 Ionic2-auto-complete
 https://github.com/kadoshms/ionic2-autocomplete
+
+https://github.com/yannbf/ionic3-components
